@@ -1,0 +1,47 @@
+{
+"tracks": {
+"data": [
+{
+"id": 1421072292,
+"title": "Bilmem Mi?",
+"title_short": "Bilmem Mi?",
+"title_version": "",
+"link": "https://www.deezer.com/track/1421072292",
+"duration": 186,
+"rank": 696874,
+"explicit_lyrics": false,
+"explicit_content_lyrics": 0,
+"explicit_content_cover": 0,
+"preview": "https://cdns-preview-3.dzcdn.net/stream/c-32472d53b86666c2ea976b97559a9b94-3.mp3",
+"md5_image": "9f1f60ebdbb36ffb9b32269d58596756",
+"position": 1,
+"artist": {
+"id": 5331963,
+"name": "Sefo",
+"link": "https://www.deezer.com/artist/5331963",
+"picture": "https://api.deezer.com/artist/5331963/image",
+"picture_small": "https://e-cdns-images.dzcdn.net/images/artist/7344dcfad2cb6625c14147d6357f73cb/56x56-000000-80-0-0.jpg",
+"picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/7344dcfad2cb6625c14147d6357f73cb/250x250-000000-80-0-0.jpg",
+"picture_big": "https://e-cdns-images.dzcdn.net/images/artist/7344dcfad2cb6625c14147d6357f73cb/500x500-000000-80-0-0.jpg",
+"picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/7344dcfad2cb6625c14147d6357f73cb/1000x1000-000000-80-0-0.jpg",
+"radio": true,
+"tracklist": "https://api.deezer.com/artist/5331963/top?limit=50",
+"type": "artist"
+},
+"album": {
+"id": 241316042,
+"title": "Bilmem Mi?",
+"cover": "https://api.deezer.com/album/241316042/image",
+"cover_small": "https://e-cdns-images.dzcdn.net/images/cover/9f1f60ebdbb36ffb9b32269d58596756/56x56-000000-80-0-0.jpg",
+"cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/9f1f60ebdbb36ffb9b32269d58596756/250x250-000000-80-0-0.jpg",
+"cover_big": "https://e-cdns-images.dzcdn.net/images/cover/9f1f60ebdbb36ffb9b32269d58596756/500x500-000000-80-0-0.jpg",
+"cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/9f1f60ebdbb36ffb9b32269d58596756/1000x1000-000000-80-0-0.jpg",
+"md5_image": "9f1f60ebdbb36ffb9b32269d58596756",
+"tracklist": "https://api.deezer.com/album/241316042/tracks",
+"type": "album"
+}
+}
+],
+"total": 1
+}
+}
