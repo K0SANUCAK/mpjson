@@ -7,6 +7,69 @@
       "thumbnailUrl": "https://www.freetogame.com/g/1/thumbnail.jpg",
       "shortDescription": "A free-to-play, co-op action RPG with gameplay similar to Monster Hunter.",
       "genre": "MMORPG"
+},
+{
+      "id": 2,
+      "title": "World of Tanks",
+      "thumbnailUrl": "https://www.freetogame.com/g/2/thumbnail.jpg",
+      "shortDescription": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
+      "genre": "Shooter"
+},
+{
+      "id": 3,
+      "title": "Warframe",
+      "thumbnailUrl": "https://www.freetogame.com/g/3/thumbnail.jpg",
+      "shortDescription": "A cooperative free-to-play third person online action shooter set in an stunning sci-fi world.",
+      "genre": "Shooter"
+},
+{
+      "id": 4,
+      "title": "CRSED: F.O.A.D.",
+      "thumbnailUrl": "https://www.freetogame.com/g/4/thumbnail.jpg",
+      "shortDescription": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
+      "genre": "Shooter"
+},
+{
+      "id": 5,
+      "title": "Crossout",
+      "thumbnailUrl": "https://www.freetogame.com/g/5/thumbnail.jpg",
+      "shortDescription": "A post-apocalyptic MMO vehicle combat game!",
+      "genre": "Shooter"
+},
+{
+      "id": 6,
+      "title": "Blade and Soul",
+      "thumbnailUrl": "https://www.freetogame.com/g/6/thumbnail.jpg",
+      "shortDescription": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks.",
+      "genre": "MMORPG"
+},
+{
+      "id": 7,
+      "title": "Armored Warfare",
+      "thumbnailUrl": "https://www.freetogame.com/g/7/thumbnail.jpg",
+      "shortDescription": "A modern team-based MMO tank game from Obsidian Entertainment.",
+      "genre": "Shooter"
+},
+{
+      "id": 8,
+      "title": "Trove",
+      "thumbnailUrl": "https://www.freetogame.com/8/1/thumbnail.jpg",
+      "shortDescription": "A free to play Sandbox massively multiplayer online role-playing game!",
+      "genre": "MMORPG"
+},
+{
+      "id": 9,
+      "title": "World of Warships",
+      "thumbnailUrl": "https://www.freetogame.com/g/9/thumbnail.jpg",
+      "shortDescription": "A 3D free to play naval action-themed MMO from the creators of World of Tanks!",
+      "genre": "Shooter"
+},
+{
+      "id": 10,
+      "title": "ArcheAge",
+      "thumbnailUrl": "https://www.freetogame.com/g/10/thumbnail.jpg",
+      "shortDescription": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",
+      "genre": "MMORPG"
 }
 ]
 }
